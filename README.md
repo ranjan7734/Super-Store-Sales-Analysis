@@ -18,14 +18,6 @@ and regional performance to help stakeholders make data-driven decisions.
 - **Trend Analysis**: Monthly and yearly sales trends.
 - **Shipping Insights**: Delivery time and shipping mode effectiveness.
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/superstore-sales-analysis.git
-2.Open Sales Analysis.pbix using Power BI Desktop.
-3.If prompted, update the data source path to match the location of your CSV/Excel files.
-
 🧰 Tools & Technologies
 
 1.Power BI
